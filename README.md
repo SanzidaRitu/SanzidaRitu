@@ -9,9 +9,10 @@
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&labelColor=black&logo=numpy)
 ![Machine Learning](https://img.shields.io/badge/ML-Machine_Learning-blue?style=for-the-badge&labelColor=black&logo=tensorflow)
 ![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-brightgreen?style=for-the-badge&labelColor=black&logo=openai&color=F0DB4F)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-1E1E1E?style=for-the-badge&labelColor=black&logo=openvpn&color=F78138)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&color=007acc)
 
 <hr />
 
